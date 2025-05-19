@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>onderweg</title>
-    <link href="https://peoplesstories.github.io/feed.xml" rel="self" />
-    <link href="https://peoplesstories.github.io" />
-    <updated>2025-05-19T12:22:20+02:00</updated>
+    <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
+    <link href="https://ctrlaltdelete.cc" />
+    <updated>2025-05-19T13:17:49+02:00</updated>
     <author>
         <name>B</name>
     </author>
-    <id>https://peoplesstories.github.io</id>
+    <id>https://ctrlaltdelete.cc</id>
 
     <entry>
         <title>First post</title>
         <author>
             <name>B</name>
         </author>
-        <link href="https://peoplesstories.github.io/test3.html"/>
-        <id>https://peoplesstories.github.io/test3.html</id>
-        <media:content url="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" medium="image" />
+        <link href="https://ctrlaltdelete.cc/test3.html"/>
+        <id>https://ctrlaltdelete.cc/test3.html</id>
+        <media:content url="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" medium="image" />
 
         <updated>2025-05-19T08:02:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" alt="" />
+                        <img src="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" alt="" />
                     Let's see how this all works out. This is my first post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Let's see how this all works out. This is my first post. Maybe I should also add a picture?
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://peoplesstories.github.io/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://peoplesstories.github.io/media/posts/4/responsive/th-xs.jpeg 320w ,https://peoplesstories.github.io/media/posts/4/responsive/th-sm.jpeg 480w ,https://peoplesstories.github.io/media/posts/4/responsive/th-md.jpeg 768w ,https://peoplesstories.github.io/media/posts/4/responsive/th-xl.jpeg 1024w">
+      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/th-xs.jpeg 320w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-sm.jpeg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-md.jpeg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-xl.jpeg 1024w">
       <figcaption>First picture</figcaption>
     </figure>
 <hr class="separator separator--dots" />
