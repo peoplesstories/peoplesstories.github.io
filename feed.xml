@@ -3,7 +3,7 @@
     <title>onderweg</title>
     <link href="https://peoplesstories.github.io/feed.xml" rel="self" />
     <link href="https://peoplesstories.github.io" />
-    <updated>2025-05-19T11:23:26+02:00</updated>
+    <updated>2025-05-19T12:22:20+02:00</updated>
     <author>
         <name>B</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://peoplesstories.github.io/test3.html"/>
         <id>https://peoplesstories.github.io/test3.html</id>
+        <media:content url="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" medium="image" />
 
         <updated>2025-05-19T08:02:26+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" alt="" />
                     Let's see how this all works out. This is my first post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://peoplesstories.github.io/media/posts/4/th-2.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Let's see how this all works out. This is my first post. Maybe I should also add a picture?

@@ -15,13 +15,14 @@
             "title": "First post",
             "summary": "Let's see how this all works out. This is my first post.",
             "content_html": "\n  <p>\n    Let's see how this all works out. This is my first post. Maybe I should also add a picture?\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://peoplesstories.github.io/media/posts/4/th.jpeg\" height=\"486\" width=\"474\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://peoplesstories.github.io/media/posts/4/responsive/th-xs.jpeg 320w ,https://peoplesstories.github.io/media/posts/4/responsive/th-sm.jpeg 480w ,https://peoplesstories.github.io/media/posts/4/responsive/th-md.jpeg 768w ,https://peoplesstories.github.io/media/posts/4/responsive/th-xl.jpeg 1024w\">\n      <figcaption>First picture</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    This is getting out of hand people, let's see what happens next?\n  </p>",
+            "image": "https://peoplesstories.github.io/media/posts/4/th-2.jpeg",
             "author": {
                 "name": "B"
             },
             "tags": [
             ],
             "date_published": "2025-05-19T08:02:26+02:00",
-            "date_modified": "2025-05-19T11:23:26+02:00"
+            "date_modified": "2025-05-19T12:22:20+02:00"
         }
     ]
 }
