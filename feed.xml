@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title><svg class="fi fi-hexagon" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://ctrlaltdelete.cc/media/plugins/featherIcons/feather-sprite.svg#hexagon" /></svg></title>
+    <title><svg class="fi fi-camera" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://ctrlaltdelete.cc/media/plugins/featherIcons/feather-sprite.svg#camera" /></svg></title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-05-19T13:17:49+02:00</updated>
+    <updated>2025-05-19T15:54:12+02:00</updated>
     <author>
         <name>B</name>
     </author>
@@ -34,7 +34,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/th-xs.jpeg 320w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-sm.jpeg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-md.jpeg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-xl.jpeg 1024w">
+      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/th-xs.jpeg 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-sm.jpeg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-md.jpeg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-lg.jpeg 1024w">
       <figcaption>First picture</figcaption>
     </figure>
 <hr class="separator separator--dots" />
