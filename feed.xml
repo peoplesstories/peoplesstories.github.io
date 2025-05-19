@@ -3,14 +3,14 @@
     <title>onderweg</title>
     <link href="https://peoplesstories.github.io/feed.xml" rel="self" />
     <link href="https://peoplesstories.github.io" />
-    <updated>2025-05-19T08:02:26+02:00</updated>
+    <updated>2025-05-19T11:23:26+02:00</updated>
     <author>
         <name>B</name>
     </author>
     <id>https://peoplesstories.github.io</id>
 
     <entry>
-        <title>Test3</title>
+        <title>First post</title>
         <author>
             <name>B</name>
         </author>
@@ -20,14 +20,24 @@
         <updated>2025-05-19T08:02:26+02:00</updated>
             <summary>
                 <![CDATA[
-                    Ik hoop dat ik nu eindelijk eens wat te zien krijg op&hellip;
+                    Let's see how this all works out. This is my first post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Ik hoop dat ik nu eindelijk eens wat te zien krijg op de pagina
+    Let's see how this all works out. This is my first post. Maybe I should also add a picture?
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://peoplesstories.github.io/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://peoplesstories.github.io/media/posts/4/responsive/th-xs.jpeg 320w ,https://peoplesstories.github.io/media/posts/4/responsive/th-sm.jpeg 480w ,https://peoplesstories.github.io/media/posts/4/responsive/th-md.jpeg 768w ,https://peoplesstories.github.io/media/posts/4/responsive/th-xl.jpeg 1024w">
+      <figcaption>First picture</figcaption>
+    </figure>
+<hr class="separator separator--dots" />
+
+  <p>
+    This is getting out of hand people, let's see what happens next?
   </p>
             ]]>
         </content>
