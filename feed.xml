@@ -3,10 +3,33 @@
     <title>onderweg</title>
     <link href="https://peoplesstories.github.io/feed.xml" rel="self" />
     <link href="https://peoplesstories.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-05-19T08:02:26+02:00</updated>
     <author>
         <name>B</name>
     </author>
     <id>https://peoplesstories.github.io</id>
 
+    <entry>
+        <title>Test3</title>
+        <author>
+            <name>B</name>
+        </author>
+        <link href="https://peoplesstories.github.io/test3.html"/>
+        <id>https://peoplesstories.github.io/test3.html</id>
+
+        <updated>2025-05-19T08:02:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ik hoop dat ik nu eindelijk eens wat te zien krijg op de pagina
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Ik hoop dat ik nu eindelijk eens wat te zien krijg op de pagina
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
