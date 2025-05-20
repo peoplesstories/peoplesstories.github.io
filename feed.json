@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "<svg class=\"fi fi-camera\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><use href=\"https://ctrlaltdelete.cc/media/plugins/featherIcons/feather-sprite.svg#camera\" /></svg>",
+    "title": "CTRLALTDELETE",
     "description": "",
     "home_page_url": "https://ctrlaltdelete.cc",
     "feed_url": "https://ctrlaltdelete.cc/feed.json",
