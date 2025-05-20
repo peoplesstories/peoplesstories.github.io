@@ -3,7 +3,7 @@
     <title><svg class="fi fi-camera" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://ctrlaltdelete.cc/media/plugins/featherIcons/feather-sprite.svg#camera" /></svg></title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-05-19T15:54:12+02:00</updated>
+    <updated>2025-05-20T06:40:51+02:00</updated>
     <author>
         <name>B</name>
     </author>
@@ -42,6 +42,11 @@
   <p>
     This is getting out of hand people, let's see what happens next?
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/IMG_9238.webp" height="800" width="1200" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-xs.webp 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-sm.webp 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-md.webp 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-lg.webp 1024w">
+      <figcaption>Markt</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
