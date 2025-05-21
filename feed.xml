@@ -3,49 +3,39 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-05-20T06:40:51+02:00</updated>
+    <updated>2025-05-21T12:34:21+02:00</updated>
     <author>
         <name>B</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
     <entry>
-        <title>First post</title>
+        <title>Nachtburgemeester</title>
         <author>
             <name>B</name>
         </author>
         <link href="https://ctrlaltdelete.cc/test3/"/>
         <id>https://ctrlaltdelete.cc/test3/</id>
-        <media:content url="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" medium="image" />
+        <media:content url="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester-2.jpg" medium="image" />
 
         <updated>2025-05-19T08:02:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" alt="" />
-                    Let's see how this all works out. This is my first post.
+                        <img src="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester-2.jpg" alt="" />
+                    Nachtburgemeester
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://ctrlaltdelete.cc/media/posts/4/th-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester-2.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    Let's see how this all works out. This is my first post. Maybe I should also add a picture?
+    
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/th.jpeg" height="486" width="474" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/th-xs.jpeg 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-sm.jpeg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-md.jpeg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/th-lg.jpeg 1024w">
-      <figcaption>First picture</figcaption>
-    </figure>
-<hr class="separator separator--dots" />
-
-  <p>
-    This is getting out of hand people, let's see what happens next?
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/IMG_9238.webp" height="800" width="1200" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-xs.webp 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-sm.webp 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-md.webp 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/IMG_9238-lg.webp 1024w">
-      <figcaption>Markt</figcaption>
+      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester.jpg" height="1200" width="800" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-xs.jpg 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-sm.jpg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-md.jpg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-lg.jpg 1024w">
+      <figcaption>Nachtburgemeester</figcaption>
     </figure>
             ]]>
         </content>
