@@ -3,12 +3,30 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-05-21T12:34:21+02:00</updated>
+    <updated>2025-05-23T15:40:50+02:00</updated>
     <author>
         <name>B</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
+    <entry>
+        <title>De Mikkies - Jaco van Heijst</title>
+        <author>
+            <name>B</name>
+        </author>
+        <link href="https://ctrlaltdelete.cc/de-mikkies-jaco-van-heijst/"/>
+        <id>https://ctrlaltdelete.cc/de-mikkies-jaco-van-heijst/</id>
+        <media:content url="https://ctrlaltdelete.cc/media/posts/7/mikkie-2.webp" medium="image" />
+
+        <updated>2025-05-23T15:40:50+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ctrlaltdelete.cc/media/posts/7/mikkie-2.webp" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://ctrlaltdelete.cc/media/posts/7/mikkie.webp" alt="" width="800" height="1200" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/7/responsive/mikkie-xs.webp 300w ,https://ctrlaltdelete.cc/media/posts/7/responsive/mikkie-sm.webp 480w ,https://ctrlaltdelete.cc/media/posts/7/responsive/mikkie-md.webp 768w ,https://ctrlaltdelete.cc/media/posts/7/responsive/mikkie-lg.webp 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nachtburgemeester</title>
         <author>
