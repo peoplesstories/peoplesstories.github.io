@@ -3,16 +3,16 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-05-24T10:38:39+02:00</updated>
+    <updated>2025-06-02T07:37:46+02:00</updated>
     <author>
-        <name>B</name>
+        <name>CTRLALTDELETE</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
     <entry>
         <title>Rotterdam (Photograpy)</title>
         <author>
-            <name>B</name>
+            <name>CTRLALTDELETE</name>
         </author>
         <link href="https://ctrlaltdelete.cc/rotterdam-photograpy/"/>
         <id>https://ctrlaltdelete.cc/rotterdam-photograpy/</id>
@@ -61,7 +61,7 @@
     <entry>
         <title>De Mikkies - Jaco van Heijst (3D Statue)</title>
         <author>
-            <name>B</name>
+            <name>CTRLALTDELETE</name>
         </author>
         <link href="https://ctrlaltdelete.cc/de-mikkies-jaco-van-heijst/"/>
         <id>https://ctrlaltdelete.cc/de-mikkies-jaco-van-heijst/</id>
@@ -79,7 +79,7 @@
     <entry>
         <title>Nachtburgemeester (3D Statue)</title>
         <author>
-            <name>B</name>
+            <name>CTRLALTDELETE</name>
         </author>
         <link href="https://ctrlaltdelete.cc/test3/"/>
         <id>https://ctrlaltdelete.cc/test3/</id>
@@ -89,7 +89,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester-2.jpg" alt="" />
-                    Nachtburgemeester
+                    Nachtburgemeester Leo IJdo by CTRLALTDELETE on Sketchfab
                 ]]>
             </summary>
         <content type="html">
@@ -104,6 +104,8 @@
       <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/4/nachtburgemeester.jpg" height="1200" width="800" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-xs.jpg 300w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-sm.jpg 480w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-md.jpg 768w ,https://ctrlaltdelete.cc/media/posts/4/responsive/nachtburgemeester-lg.jpg 1024w">
       <figcaption>Nachtburgemeester</figcaption>
     </figure>
+<div><div class="sketchfab-embed-wrapper"> <iframe loading="lazy" data-responsive="false" title="Nachtburgemeester Leo IJdo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/0cfa74daafc34f72a5a875314f9d0846/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/nachtburgemeester-leo-ijdo-0cfa74daafc34f72a5a875314f9d0846?utm_medium=embed&utm_campaign=share-popup&utm_content=0cfa74daafc34f72a5a875314f9d0846" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Nachtburgemeester Leo IJdo </a> by <a href="https://sketchfab.com/CTRLALTDELETE.CC?utm_medium=embed&utm_campaign=share-popup&utm_content=0cfa74daafc34f72a5a875314f9d0846" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> CTRLALTDELETE </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0cfa74daafc34f72a5a875314f9d0846" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+</div>
             ]]>
         </content>
     </entry>
