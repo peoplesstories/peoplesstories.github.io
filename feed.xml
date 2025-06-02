@@ -3,12 +3,45 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-06-02T14:35:22+02:00</updated>
+    <updated>2025-06-02T15:41:08+02:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
+    <entry>
+        <title>Rotterdam in May (Photography)</title>
+        <author>
+            <name>CTRLALTDELETE</name>
+        </author>
+        <link href="https://ctrlaltdelete.cc/rotterdam-in-may/"/>
+        <id>https://ctrlaltdelete.cc/rotterdam-in-may/</id>
+        <media:content url="https://ctrlaltdelete.cc/media/posts/9/boymans.webp" medium="image" />
+
+        <updated>2025-06-02T15:39:10+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ctrlaltdelete.cc/media/posts/9/boymans.webp" class="type:primaryImage" alt="" /></p>
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/9/gallery/boymans.webp" data-size="800x1200">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/9/gallery/boymans-thumbnail.webp" height="1152" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/9/gallery/bankje.webp" data-size="1200x815">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/9/gallery/bankje-thumbnail.webp" height="522" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rotterdam (Photograpy)</title>
         <author>
