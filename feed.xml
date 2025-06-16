@@ -3,7 +3,7 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-06-12T19:58:24+02:00</updated>
+    <updated>2025-06-16T20:23:30+02:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
@@ -71,7 +71,12 @@
             <category term="Photography"/>
 
         <updated>2025-06-12T19:31:17+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://ctrlaltdelete.cc/media/posts/12/DSCF0124_DxO.jpg" alt="" />
+                    Metrostation Beurs Oude Binnenweg
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://ctrlaltdelete.cc/media/posts/12/DSCF0124_DxO.jpg" class="type:primaryImage" alt="" /></p>
@@ -82,20 +87,45 @@
       <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0124_DxO.jpg" data-size="1200x800">
         <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0124_DxO-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
-      
+      <figcaption>Metrostation Beurs </figcaption>
     </figure><figure class="gallery__item">
       <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0122_Nik_DxO.jpg" data-size="1200x800">
         <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0122_Nik_DxO-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
-      
+      <figcaption>Oude Binnenweg</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0118_Nik_DxO.jpg" data-size="800x1200">
-        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0118_Nik_DxO-thumbnail.jpg" height="1152" width="768" alt="" >
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0118_Nik_DxO-thumbnail.jpg" height="1152" width="768" alt="Oude Binnenweg" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0117_Nik_DxO.jpg" data-size="1200x800">
-        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0117_Nik_DxO-thumbnail.jpg" height="512" width="768" alt="" >
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0117_Nik_DxO-thumbnail.jpg" height="512" width="768" alt="Oude Binnenweg" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0193_DxO.jpg" data-size="1356x2034">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0193_DxO-thumbnail.jpg" height="1152" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0188_DxO.jpg" data-size="7728x5152">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0188_DxO-thumbnail.jpg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0195_Nik_DxO.jpg" data-size="4058x2705">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0195_Nik_DxO-thumbnail.jpg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/IMG_9406_Nik_DxO.jpg" data-size="1200x800">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/IMG_9406_Nik_DxO-thumbnail.jpg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0196_DxO.jpg" data-size="7728x5152">
+        <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/12/gallery/DSCF0196_DxO-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -262,7 +292,7 @@
         </content>
     </entry>
     <entry>
-        <title>Rotterdam, some of my older photos (Photography)</title>
+        <title>Rotterdam, older photos (Photography)</title>
         <author>
             <name>CTRLALTDELETE</name>
         </author>
