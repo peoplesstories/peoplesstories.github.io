@@ -3,14 +3,14 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-08-04T12:50:51+02:00</updated>
+    <updated>2025-12-21T15:31:32+01:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
     <entry>
-        <title>Kaart</title>
+        <title>Eerste post</title>
         <author>
             <name>CTRLALTDELETE</name>
         </author>
@@ -18,22 +18,17 @@
         <id>https://ctrlaltdelete.cc/kaart-2/</id>
 
         <updated>2025-08-04T11:58:07+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
-                    https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4
+                    Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    <a href="https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4" target="_blank" class="">https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4</a>
+    Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb?
   </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://ctrlaltdelete.cc/media/posts/18/maps1.jpg" height="766" width="916" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-xs.jpg 300w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-sm.jpg 480w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-md.jpg 768w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-lg.jpg 1024w">
-      
-    </figure>
             ]]>
         </content>
     </entry>

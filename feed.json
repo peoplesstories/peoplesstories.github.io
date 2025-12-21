@@ -12,16 +12,16 @@
         {
             "id": "https://ctrlaltdelete.cc/kaart-2/",
             "url": "https://ctrlaltdelete.cc/kaart-2/",
-            "title": "Kaart",
-            "summary": "https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4",
-            "content_html": "\n  <p>\n    <a href=\"https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4\" target=\"_blank\" class=\"\">https://umap.openstreetmap.de/nl/map/anonymous-edit/103160:kElzG7lavCKWoXl2Ff483enrZXfLZ9TtJYT0vf1NTA4</a>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://ctrlaltdelete.cc/media/posts/18/maps1.jpg\" height=\"766\" width=\"916\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-xs.jpg 300w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-sm.jpg 480w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-md.jpg 768w ,https://ctrlaltdelete.cc/media/posts/18/responsive/maps1-lg.jpg 1024w\">\n      \n    </figure>",
+            "title": "Eerste post",
+            "summary": "Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb?",
+            "content_html": "\n  <p>\n    Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb?\n  </p>",
             "author": {
                 "name": "CTRLALTDELETE"
             },
             "tags": [
             ],
             "date_published": "2025-08-04T11:58:07+02:00",
-            "date_modified": "2025-08-04T12:50:51+02:00"
+            "date_modified": "2025-12-21T15:31:32+01:00"
         }
     ]
 }
