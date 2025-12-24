@@ -3,14 +3,14 @@
     <title>CTRLALTDELETE</title>
     <link href="https://ctrlaltdelete.cc/feed.xml" rel="self" />
     <link href="https://ctrlaltdelete.cc" />
-    <updated>2025-12-21T15:47:27+01:00</updated>
+    <updated>2025-12-24T14:48:53+01:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
     <id>https://ctrlaltdelete.cc</id>
 
     <entry>
-        <title>Eerste post</title>
+        <title>Een overzicht van 2025</title>
         <author>
             <name>CTRLALTDELETE</name>
         </author>
@@ -20,14 +20,78 @@
         <updated>2025-08-04T11:58:07+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb? Ik heb een foto toegevoegd, maar ik zie deze nog niet. Hoe is dat mogelijk?
+                    Dit is mijn eerste post en toch ik begin met een terugblik. Het is de moeite waard om terug te kijken op het afgelopen jaar en daar een aantal opvallende zaken uit te pakken. Verenigde staten: Ik denk dat de meesten van ons met ongeloof&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Dit is een testpost om te zien hoe dit op een pc eruit komt te zien. Eens kijken of ik nu nog steeds toegang heb? Ik heb een foto toegevoegd, maar ik zie deze nog niet. Hoe is dat mogelijk?
+    Dit is mijn eerste post en toch ik begin met een terugblik. Het is de moeite waard om terug te kijken op het afgelopen jaar en daar een aantal opvallende zaken uit te pakken.
+  </p>
+
+  <p>
+    <strong>Verenigde staten:</strong>
+  </p>
+
+  <p>
+    Ik denk dat de meesten van ons met ongeloof hebben toegekeken naar wat zich het afgelopen jaar in de Verenigde Staten heeft afgespeeld. Belangrijke instituten werden ontmanteld, Elon Musk kreeg met een groepje <a href="https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/" target="_blank">opgeschoten jongeren</a> carte blanche om talloze gevoelige <a href="https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/" target="_blank">databases</a> te benaderen, en de cyberweerbaarheid werd drastisch ondermijnd door het ontmantelen of tandeloos maken van <a href="https://www.cpomagazine.com/cyber-security/trumps-2026-budget-would-cut-nearly-a-quarter-of-cisas-funding/" target="_blank">cruciale organisaties</a>
+  </p>
+
+  <p>
+    Met de 'America First'-strategie van Trump rijst de <a href="https://www.theregister.com/2025/02/26/europe_has_second_thoughts_about/" target="_blank">vraag</a> of het verstandig is om afhankelijk te blijven van techreuzen zoals AWS, Google en Microsoft voor essentiële clouddiensten. In Europa zoeken steeds meer bedrijven en overheden naar alternatieven
+  </p>
+
+  <p>
+    <strong>AI:</strong>
+  </p>
+
+  <p>
+    Het is voor het eerst dat er <a href="https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html" target="_blank">AI is gebruikt</a> om (voor een groot deel) zelfstandig cyberaanvallen uit te voeren. En notabene met gebruikmaking van openbare&nbsp; AI-diensten. Daarnaast werd afgelopen jaar AI steeds vaker gebruikt om audio- en videobestanden te maken die gebruikt werden voor CEO-fraude.
+  </p>
+
+  <p>
+    <strong>"Salt Typhoon" en de Telco-spionage:</strong>
+  </p>
+
+  <p>
+    Het is misschien niet verrassend, maar wel een zorgwekkende escalatie: <a href="https://en.wikipedia.org/wiki/Salt_Typhoon" target="_blank">Chinese staatshackers blijken toegang te hebben gekregen tot Amerikaanse telecombedrijven en overheidsinstanties, waaronder de National Guard.</a> Des te opmerkelijker is het dat de Amerikaanse overheid juist cyberweerbaarheidsinitiatieven afbouwt, in plaats van deze te versterken.
+  </p>
+
+  <p>
+    <strong>'Mother of all breaches':</strong>
+  </p>
+
+  <p>
+    <a href="https://cybercx.com/blog/mother-of-all-breaches/" target="_blank">Afgelopen jaar is er weer een dataset opgedoken met meer dan 16 miljard gestolen gebruikersnamen en wachtwoorden afkomstig van Google, Apple, Telegram en Facebook.</a> Ondanks alle beloftes van bedrijven en organisaties, lijkt het onmogelijk om hacks en lekken te voorkomen.&nbsp;
+  </p>
+
+  <p>
+    <strong>ID-verificatie en beperken VPN-gebruik:</strong>
+  </p>
+
+  <p>
+    Steeds meer landen willen de toegang tot bepaalde content (porno en sociale media) beperken. Met als belangrijkste argument is dat dit bedoeld is om kinderen te beschermen tegen schadelijk materiaal. Consequentie hiervan is dat mensen zich online moeten identificeren met een officieel document. Daarnaast willen overheden het gebruik van VPN's verbieden omdat dit gebruikt kan worden om de beperking te omzeilen. Gezien de recente inbraak bij <a href="https://www.techzine.nl/nieuws/security/573288/pornhub-hack-200-miljoen-gebruikersdata-gestolen-door-shinyhunters/" target="_blank">Pornhub</a>, is het de vraag of dit nu echt zo'n goed idee is.
+  </p>
+
+  <p>
+    <strong>Implementatie NIS2:</strong>
+  </p>
+
+  <p>
+    De NIS2-richtlijn (Network and Information Security) is een nieuwe Europese wet die de digitale weerbaarheid van Europa moet versterken. In Nederland wordt deze richtlijn momenteel omgezet in de Cyberbeveiligingswet (Cbw), die naar verwachting in de loop van Q2 2026 volledig van kracht is.
+  </p>
+
+  <p>
+    Waar cybersecurity vroeger vaak een "vrijblijvend advies" was, maakt NIS2 het voor duizenden bedrijven een wettelijke plicht. De belangrijkste onderdelen zijn zorgplicht, meldplicht en bestuurlijke aansprakelijkheid.&nbsp;
+  </p>
+
+  <p>
+    <strong>Toename van Supply Chain Attacks:</strong>
+  </p>
+
+  <p>
+    Hackers vallen steeds vaker niet het bedrijf zelf aan, maar richten zich op kwetsbare toeleveranciers. Zo kunnen ze in één keer toegang krijgen tot een groot aantal klanten van die leverancier. Met behulp van AI weten hackers kwetsbaarheden bij hun doelwitten bovendien sneller op te sporen.
   </p>
             ]]>
         </content>
