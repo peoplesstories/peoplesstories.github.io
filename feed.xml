@@ -3,7 +3,7 @@
     <title>Berry-g.com</title>
     <link href="https://berry-g.com/feed.xml" rel="self" />
     <link href="https://berry-g.com" />
-    <updated>2026-01-18T16:45:54+01:00</updated>
+    <updated>2026-01-31T18:47:42+01:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
@@ -58,12 +58,16 @@
         <id>https://berry-g.com/test-2/</id>
 
         <updated>2026-01-18T15:35:03+01:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.
   </p>
             ]]>
         </content>
