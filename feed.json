@@ -5,6 +5,7 @@
     "home_page_url": "https://berry-g.com",
     "feed_url": "https://berry-g.com/feed.json",
     "user_comment": "",
+    "icon": "https://berry-g.com/media/website/Logo.webp",
     "author": {
         "name": "CTRLALTDELETE"
     },
@@ -41,7 +42,7 @@
             "id": "https://berry-g.com/test-2/",
             "url": "https://berry-g.com/test-2/",
             "title": "test",
-            "summary": "Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.",
+            "summary": "Volgens mij heb ik het nu domein nu aan de praat. Ik&hellip;",
             "content_html": "\n  <p>\n    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.\n  </p>",
             "author": {
                 "name": "CTRLALTDELETE"

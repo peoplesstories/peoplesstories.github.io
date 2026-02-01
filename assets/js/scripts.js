@@ -1,18 +1,21 @@
-// Off canvas menu 
-const container = document.querySelector('.js-container');
-const toggleButton = document.querySelector('.js-menu-toggle');
+// Menu
+document.addEventListener('DOMContentLoaded', () => {
+	const toggleButton = document.querySelector('.navbar__toggle');
+	const menu = document.querySelector('.navbar__menu');
 
-if (container && toggleButton) {
-    toggleButton.addEventListener('click', (e) => {
-        e.preventDefault();
-        container.classList.toggle('is-menu');
-        document.body.classList.toggle('no-scroll');
-        toggleButton.classList.toggle('is-active');
+	if (toggleButton && menu) {
+		 toggleButton.addEventListener('click', () => {
+			  const isMenuActive = menu.classList.contains('is-active');
 
-        const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
-        toggleButton.setAttribute('aria-expanded', !isExpanded);
-    });
-}
+			  menu.classList.toggle('is-active', !isMenuActive);
+			  menu.classList.toggle('is-hidden', isMenuActive);
+			  toggleButton.classList.toggle('is-active', !isMenuActive);
+
+			  // Update the aria-expanded attribute
+			  toggleButton.setAttribute('aria-expanded', !isMenuActive);
+		 });
+	}
+});
 
 
 // Share buttons pop-up
@@ -87,7 +90,6 @@ if (container && toggleButton) {
 	}
 })();
 
-
 // Responsive embeds script
 (function () {
 	let wrappers = document.querySelectorAll('.post__video, .post__iframe');
@@ -127,3 +129,4 @@ if (container && toggleButton) {
 		}
 	}
 })();
+
