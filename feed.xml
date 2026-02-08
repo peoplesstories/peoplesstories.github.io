@@ -1,82 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Berry-g.com</title>
-    <link href="https://berry-g.com/feed.xml" rel="self" />
-    <link href="https://berry-g.com" />
-    <updated>2026-02-01T17:18:41+01:00</updated>
+    <title>In poor taste</title>
+    <link href="https://ctrlaltdeceit.org/feed.xml" rel="self" />
+    <link href="https://ctrlaltdeceit.org" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>CTRLALTDELETE</name>
+        <name>Writer</name>
     </author>
-    <id>https://berry-g.com</id>
+    <id>https://ctrlaltdeceit.org</id>
 
-    <entry>
-        <title>Test nummer 3</title>
-        <author>
-            <name>CTRLALTDELETE</name>
-        </author>
-        <link href="https://berry-g.com/test-nummer-3-2/"/>
-        <id>https://berry-g.com/test-nummer-3-2/</id>
-        <media:content url="https://berry-g.com/media/posts/21/Logo.webp" medium="image" />
-
-        <updated>2026-01-18T16:45:54+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://berry-g.com/media/posts/21/Logo.webp" alt="" />
-                    Werkt dit nog steeds?
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://berry-g.com/media/posts/21/Logo.webp" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://berry-g.com/media/posts/21/Logo-2.webp" alt="" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://berry-g.com/media/posts/21/responsive/Logo-2-xs.webp 300w ,https://berry-g.com/media/posts/21/responsive/Logo-2-sm.webp 480w ,https://berry-g.com/media/posts/21/responsive/Logo-2-md.webp 768w"></figure>
-<p>Werkt dit nog steeds?</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nog een test</title>
-        <author>
-            <name>CTRLALTDELETE</name>
-        </author>
-        <link href="https://berry-g.com/nog-een-test-2/"/>
-        <id>https://berry-g.com/nog-een-test-2/</id>
-        <media:content url="https://berry-g.com/media/posts/20/Logo-2.webp" medium="image" />
-
-        <updated>2026-01-18T16:41:39+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://berry-g.com/media/posts/20/Logo-2.webp" alt="" />
-                    Wederom een test om te zien of nu alles werkt
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://berry-g.com/media/posts/20/Logo-2.webp" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://berry-g.com/media/posts/20/Logo.webp" alt="" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://berry-g.com/media/posts/20/responsive/Logo-xs.webp 300w ,https://berry-g.com/media/posts/20/responsive/Logo-sm.webp 480w ,https://berry-g.com/media/posts/20/responsive/Logo-md.webp 768w"></figure>Wederom een test om te zien of nu alles werkt</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>test</title>
-        <author>
-            <name>CTRLALTDELETE</name>
-        </author>
-        <link href="https://berry-g.com/test-2/"/>
-        <id>https://berry-g.com/test-2/</id>
-
-        <updated>2026-01-18T15:35:03+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>

@@ -1,57 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Berry-g.com",
+    "title": "In poor taste",
     "description": "",
-    "home_page_url": "https://berry-g.com",
-    "feed_url": "https://berry-g.com/feed.json",
+    "home_page_url": "https://ctrlaltdeceit.org",
+    "feed_url": "https://ctrlaltdeceit.org/feed.json",
     "user_comment": "",
     "author": {
-        "name": "CTRLALTDELETE"
+        "name": "Writer"
     },
     "items": [
-        {
-            "id": "https://berry-g.com/test-nummer-3-2/",
-            "url": "https://berry-g.com/test-nummer-3-2/",
-            "title": "Test nummer 3",
-            "summary": "Werkt dit nog steeds?",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/21/Logo-2.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berry-g.com/media/posts/21/responsive/Logo-2-xs.webp 300w ,https://berry-g.com/media/posts/21/responsive/Logo-2-sm.webp 480w ,https://berry-g.com/media/posts/21/responsive/Logo-2-md.webp 768w\"></figure>\n<p>Werkt dit nog steeds?</p>",
-            "image": "https://berry-g.com/media/posts/21/Logo.webp",
-            "author": {
-                "name": "CTRLALTDELETE"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-18T16:45:54+01:00",
-            "date_modified": "2026-02-01T17:14:53+01:00"
-        },
-        {
-            "id": "https://berry-g.com/nog-een-test-2/",
-            "url": "https://berry-g.com/nog-een-test-2/",
-            "title": "Nog een test",
-            "summary": "Wederom een test om te zien of nu alles werkt",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/20/Logo.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berry-g.com/media/posts/20/responsive/Logo-xs.webp 300w ,https://berry-g.com/media/posts/20/responsive/Logo-sm.webp 480w ,https://berry-g.com/media/posts/20/responsive/Logo-md.webp 768w\"></figure>Wederom een test om te zien of nu alles werkt</p>",
-            "image": "https://berry-g.com/media/posts/20/Logo-2.webp",
-            "author": {
-                "name": "CTRLALTDELETE"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-18T16:41:39+01:00",
-            "date_modified": "2026-02-01T17:18:41+01:00"
-        },
-        {
-            "id": "https://berry-g.com/test-2/",
-            "url": "https://berry-g.com/test-2/",
-            "title": "test",
-            "summary": "Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik&hellip;",
-            "content_html": "\n  <p>\n    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.\n  </p>",
-            "author": {
-                "name": "CTRLALTDELETE"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-18T15:35:03+01:00",
-            "date_modified": "2026-01-31T18:47:42+01:00"
-        }
     ]
 }
