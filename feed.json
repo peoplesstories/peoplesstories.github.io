@@ -13,8 +13,8 @@
             "id": "https://berry-g.com/test-nummer-3-2/",
             "url": "https://berry-g.com/test-nummer-3-2/",
             "title": "Test nummer 3",
-            "summary": "Werkt dit nog steeds? Hoe lang kan ik hiermee doorgaan en hoeveel tekst kan ik hier inztten tptdat het afbreekt.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/21/Logo-2.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berry-g.com/media/posts/21/responsive/Logo-2-xs.webp 300w ,https://berry-g.com/media/posts/21/responsive/Logo-2-sm.webp 480w ,https://berry-g.com/media/posts/21/responsive/Logo-2-md.webp 768w\"></figure>\n<p>Werkt dit nog steeds? Hoe lang kan ik hiermee doorgaan en hoeveel tekst kan ik hier inztten tptdat het afbreekt.</p>\n<p>https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b</p>",
+            "summary": "Werkt dit nog steeds? Hoe lang kan ik hiermee doorgaan en hoeveel&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/21/Logo-2.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://berry-g.com/media/posts/21/responsive/Logo-2-xs.webp 300w ,https://berry-g.com/media/posts/21/responsive/Logo-2-sm.webp 480w ,https://berry-g.com/media/posts/21/responsive/Logo-2-md.webp 768w ,https://berry-g.com/media/posts/21/responsive/Logo-2-lg.webp 1024w\"></figure>\n<p>Werkt dit nog steeds? Hoe lang kan ik hiermee doorgaan en hoeveel tekst kan ik hier inztten tptdat het afbreekt.</p>\n<p>https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b</p>",
             "image": "https://berry-g.com/media/posts/21/Logo.webp",
             "author": {
                 "name": "CTRLALTDELETE"
@@ -29,7 +29,7 @@
             "url": "https://berry-g.com/nog-een-test-2/",
             "title": "Nog een test",
             "summary": "Wederom een test om te zien of nu alles werkt",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/20/Logo.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berry-g.com/media/posts/20/responsive/Logo-xs.webp 300w ,https://berry-g.com/media/posts/20/responsive/Logo-sm.webp 480w ,https://berry-g.com/media/posts/20/responsive/Logo-md.webp 768w\"></figure>Wederom een test om te zien of nu alles werkt</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berry-g.com/media/posts/20/Logo.webp\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://berry-g.com/media/posts/20/responsive/Logo-xs.webp 300w ,https://berry-g.com/media/posts/20/responsive/Logo-sm.webp 480w ,https://berry-g.com/media/posts/20/responsive/Logo-md.webp 768w ,https://berry-g.com/media/posts/20/responsive/Logo-lg.webp 1024w\"></figure>Wederom een test om te zien of nu alles werkt</p>",
             "image": "https://berry-g.com/media/posts/20/Logo-2.webp",
             "author": {
                 "name": "CTRLALTDELETE"
@@ -43,7 +43,7 @@
             "id": "https://berry-g.com/test-2/",
             "url": "https://berry-g.com/test-2/",
             "title": "test",
-            "summary": "Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik&hellip;",
+            "summary": "Volgens mij heb ik het nu domein nu aan de praat. Ik&hellip;",
             "content_html": "\n  <p>\n    Volgens mij heb ik het nu domein nu aan de praat. Ik zal eens kijken wat er gebeurt als ik dit upload.\n  </p>",
             "author": {
                 "name": "CTRLALTDELETE"
