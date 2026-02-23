@@ -1,3 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://ctrlaltdeceit.org/sitemap.xml
+Sitemap: https://berry-g.com/sitemap.xml
