@@ -3,7 +3,7 @@
     <title>Berry-g.com</title>
     <link href="https://berry-g.com/feed.xml" rel="self" />
     <link href="https://berry-g.com" />
-    <updated>2026-02-27T15:19:09+01:00</updated>
+    <updated>2026-02-27T15:25:22+01:00</updated>
     <author>
         <name>CTRLALTDELETE</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://berry-g.com/rotterdam-centraal-vroegah/"/>
         <id>https://berry-g.com/rotterdam-centraal-vroegah/</id>
+        <media:content url="https://berry-g.com/media/posts/23/IMG_0569.webp" medium="image" />
 
         <updated>2026-02-26T15:26:42+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://berry-g.com/media/posts/23/IMG_0569.webp" alt="" />
                     Rotterdam Centraal is het station waar ik in mijn leven al duizenden&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://berry-g.com/media/posts/23/IMG_0569.webp" class="type:primaryImage" alt="" /></p>
                 <div data-is-empty="true" data-translation="Add images" data-columns="3">
 <h2 data-path-to-node="3"> </h2>
 <p data-path-to-node="4">Rotterdam Centraal is het station waar ik in mijn leven al duizenden keren ben aangekomen en vertrokken. Ik herinner me de oorspronkelijke, hoge aankomsthal met de genummerde loketten nog goed. Eind jaren '80 en begin jaren '90 hing er echter een grimmige sfeer; het station krioelde van de heroïneverslaafden door de aanzuigende werking van <strong data-path-to-node="4" data-index-in-node="342">Perron 0</strong>. Dit was een goedbedoeld initiatief voor opvang, maar het liep al vrij snel volledig uit de hand.</p>
